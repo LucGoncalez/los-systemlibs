@@ -1,4 +1,4 @@
-# LOSSystemLibs #
+# LOS-SystemLibs #
 **Repositório principal de bibliotecas de sistema do Projeto LOS**
 
 Este repositório será usado para a implementação das bibliotecas de sistema do Projeto LOS.
